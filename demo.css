@@ -1,0 +1,29 @@
+.header{
+    width: 100%;
+    background: orangered;
+    height: 150px;
+}
+.leftsection{
+    width: 20%;
+    float: left;
+    height: 400px;
+    background: orchid;
+}
+.rightsection{
+    width: 80%;
+    float: left;
+    height: 400px;
+    background: darkcyan;
+}
+.footer{
+    height: 150px;
+    width: 100%;
+    background: indianred;
+}
+.content{
+    height: 500px;
+    background: rgb(214, 131, 22);
+}
+body{
+    margin: 0;
+}

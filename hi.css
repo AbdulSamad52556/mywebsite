@@ -1,0 +1,34 @@
+.outerbox{
+    width: 100%;
+    height: 500px;
+    background-color: rgb(94, 212, 94);
+    padding: 10px;
+}
+.box1{
+    width: 40%;
+    height: 30%;
+    background: rgb(46, 77, 170);
+    float: left;
+    margin: 20px;
+}
+.box2{
+    width: 40%;
+    height: 30%;
+    background: rgb(170, 102, 46);
+    float: left;
+    margin: 20px;
+}
+.box3{
+    width: 40%;
+    height: 30%;
+    background: rgb(221, 30, 212);
+    float: left;
+    margin: 20px;
+}
+.box4{
+    width: 40%;
+    height: 30%;
+    background: rgb(233, 17, 28);
+    float: left;
+    margin: 20px;
+}
